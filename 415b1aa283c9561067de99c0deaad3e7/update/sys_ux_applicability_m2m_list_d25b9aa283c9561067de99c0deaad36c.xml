@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Script Testing App Audience">9e5b9aa283c9561067de99c0deaad34e</applicability>
+        <list display_value="Closed">965b9aa283c9561067de99c0deaad36a</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-07 23:25:09</sys_created_on>
+        <sys_id>d25b9aa283c9561067de99c0deaad36c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Script Testing App" source="x_1540671_script_0">415b1aa283c9561067de99c0deaad3e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Script Testing App">415b1aa283c9561067de99c0deaad3e7</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_d25b9aa283c9561067de99c0deaad36c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-07 23:25:09</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
